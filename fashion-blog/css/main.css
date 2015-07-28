@@ -59,7 +59,7 @@ p {
 	padding-top: 40px;
 }
 
-a:hover.linkhover {
+.continue a:hover {
 	color: #aa0000;
 }
 
