@@ -1,0 +1,46 @@
+body {
+	font-family: courier new, arial;
+	margin: 0 auto;
+
+}
+
+div {
+	margin-top: 15%;
+	display: block;
+	text-align: center;
+	border: solid 5px #a3dc93;
+	width: 35%;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f9f7f6;
+}
+
+input {
+	background-color: #fff;
+	padding: 15px;
+
+
+}
+
+p.fresult {
+	margin-bottom: 0;
+}
+
+
+button {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 15	px;
+  background: #d0d1d0;
+  padding: 15px 24px;
+  text-decoration: none;
+  border-color: transparent;
+}
+
+button:hover {
+  background: #a3dc93;
+  text-decoration: none;
+}
