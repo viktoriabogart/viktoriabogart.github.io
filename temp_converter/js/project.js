@@ -29,14 +29,21 @@ $(function() {
 
  }
 
- 	
+ function clearField() {
+
+ 	var field = "";
+
+ 	$(".fresult").html(field);
+ 	$(".cresult").html(field);
+
+ }
 
 
 $('.converter').click(convertC);
 
 $('.converter2').click(convertF);
 
-
+$('.reset').click(clearField);
 
 
  

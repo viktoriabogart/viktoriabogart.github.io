@@ -4,8 +4,8 @@ body {
 
 }
 
-div {
-	margin-top: 15%;
+div#main {
+	margin-top: 10%;
 	display: block;
 	text-align: center;
 	border: solid 5px #a3dc93;
@@ -43,4 +43,9 @@ button {
 button:hover {
   background: #a3dc93;
   text-decoration: none;
+}
+
+div#btn2 {
+	display: block;
+	padding-top: 40px;
 }
