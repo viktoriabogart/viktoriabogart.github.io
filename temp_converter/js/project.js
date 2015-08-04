@@ -35,6 +35,7 @@ $(function() {
 
  	$(".fresult").html(field);
  	$(".cresult").html(field);
+ 	$("input").val(field);
 
  }
 
